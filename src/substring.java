@@ -1,7 +1,7 @@
 public class substring {
     public static void main(String[] args) {
         String str = "Beginnersbook";
-        int f=3;
+        int f=4;
         int b=9;
         System.out.println(missingChar(str, f,b));
     }

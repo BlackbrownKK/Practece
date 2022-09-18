@@ -1,7 +1,7 @@
 public class NearHundred {
 
     public static void main(String[] args) {
-        int n = 15;
+        int n = 12;
         int a = 13;
         int b = 7;
         diff21(n);

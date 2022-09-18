@@ -2,7 +2,7 @@ public class MissingChar_substring {
 
     public static void main(String[] args) {
         String str = "Hello";
-        int n = 3;
+        int n = 34;
         int a = 13;
         int b = 20;
         int c = 15;
