@@ -30,7 +30,7 @@ public class Monobank {
     }
 
     private static void doOutput() {
-        System.out.println("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
+        System.out.println("- - - - - - - - - - - - - - -  - - - - - - - - - - - - - - -");
         System.out.println("Customer name is: " + name);
         System.out.println("Deposit amount: is: " + deposit);
         System.out.println("Amount of money on interest:");
