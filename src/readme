@@ -1,0 +1,12 @@
+1) Math:
+Math.abs()   -   function returns the absolute value of a number.
+
+
+
+
+
+2) String:
+.charAt  -   returns the character at the specified index in a string.
+.substring - Beginnersbook (3 and 9 --> inner).
+.length - The length of the Java string.
+.equals - compares the two given strings based on the content of the string.
