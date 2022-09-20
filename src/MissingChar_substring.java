@@ -2,9 +2,9 @@ public class MissingChar_substring {
 
     public static void main(String[] args) {
         String str = "Hello";
-        int n = 3;
-        int a = 13;
-        int b = 20;
+        int n = 33;
+        int a = 12;
+        int b = 23;
         int c = 15;
 //        missingChar(str, n);
 //        backAround(str);

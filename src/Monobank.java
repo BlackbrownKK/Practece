@@ -30,14 +30,14 @@ public class Monobank {
     }
 
     private static void doOutput() {
-        System.out.println("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
+        System.out.println("- - - - - - - - - - - - - - -  - - - - - - - - - - - - - - -");
         System.out.println("Customer name is: " + name);
         System.out.println("Deposit amount: is: " + deposit);
         System.out.println("Amount of money on interest:");
         System.out.println("for the first year: " + Rounder.roundValue(percentPerOneYear));
         System.out.println("for the five years: " + Rounder.roundValue(percentPerFiveYear));
         System.out.println("for the ten years: " + Rounder.roundValue(percentPerTenYear));
-        System.out.println("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -");
+        System.out.println("- - - - - - -  - -  - - - - - - - - - - - - - - - - - - - - -");
     }
 
     public class Rounder {
